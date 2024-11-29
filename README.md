@@ -73,7 +73,7 @@ Social Media Links:
 ---
 
 ## Screenshot
-*(Add the screenshot of the project preview here)*
+![image](https://github.com/user-attachments/assets/e42305a3-9813-41de-aaed-d432457266b8)
 
 ---
 
